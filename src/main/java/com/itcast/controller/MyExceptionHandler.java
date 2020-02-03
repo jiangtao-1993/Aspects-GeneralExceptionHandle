@@ -4,10 +4,7 @@ import com.itcast.entry.ResultModel;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-/**
- * @作者 itcast
- * @创建日期 2020/2/3 10:19
- **/
+
 @ControllerAdvice
 public class MyExceptionHandler {
     @ExceptionHandler(Exception.class)

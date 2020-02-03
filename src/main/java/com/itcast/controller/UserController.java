@@ -6,10 +6,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
-/**
- * @作者 itcast
- * @创建日期 2020/2/3 10:01
- **/
+
 @Controller
 @RequestMapping("/user")
 public class UserController {

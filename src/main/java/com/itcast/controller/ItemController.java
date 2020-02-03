@@ -5,10 +5,7 @@ import com.itcast.entry.ResultModel;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @作者 itcast
- * @创建日期 2020/2/3 10:32
- **/
+
 @RestController
 @RequestMapping("/item")
 public class ItemController {

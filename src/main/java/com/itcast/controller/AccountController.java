@@ -8,14 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpServletRequest;
 import java.util.Date;
 
-/**
- * 登录用户是谁   做了什么事  什么时间做的  持续多长时间   他的登录IP是多少
- *
- *
- * log表
- * @作者 itcast
- * @创建日期 2020/2/3 10:32
- **/
+
 @RestController
 @RequestMapping("/account")
 public class AccountController {

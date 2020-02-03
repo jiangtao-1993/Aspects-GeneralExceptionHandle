@@ -1,9 +1,6 @@
 package com.itcast.entry;
 
-/**
- * @作者 itcast
- * @创建日期 2020/2/3 10:04
- **/
+
 public class ResultModel {
     private String code; // 返回的状态   200 成功   500 服务器 403无权限
     private String msg;//返回的消息

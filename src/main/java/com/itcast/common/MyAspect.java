@@ -11,10 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Method;
 import java.util.Date;
 
-/**
- * @作者 itcast
- * @创建日期 2020/2/3 10:46
- **/
+
 @Aspect
 @Component
 public class MyAspect {
